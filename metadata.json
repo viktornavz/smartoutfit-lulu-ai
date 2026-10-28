@@ -1,0 +1,6 @@
+{
+  "name": "SmartOutfit LULU AI - PRD & Architecture Portal",
+  "description": "Comprehensive Product Requirements Document (PRD), System Architecture, and Interactive Functional Prototype for SmartOutfit LULU AI - personal styling & wardrobe matchmaking app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
